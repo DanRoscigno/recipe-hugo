@@ -1,6 +1,6 @@
-baseURL = 'https://pagefind.app/'
+baseURL = 'https://danroscigno.github.io/recipe-hugo'
 languageCode = 'en-us'
-title = 'Pagefind'
+title = 'Recipes'
 summaryLength = 30
 disableKinds = ["taxonomy"]
 

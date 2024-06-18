@@ -1,5 +1,5 @@
 footer_width: contain
 footer_links:
-  - url_path: https://cloudcannon.com/
-    image_path: /cloudcannon.svg
-    image_alt_text: cloudcannon
+  - url_path: https://github.com/DanRoscigno/recipe-hugo
+    image_path: /recipe-hugo/github.svg
+    image_alt_text: GitHub

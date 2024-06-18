@@ -1,10 +1,10 @@
-side_nav_title: Docs
+side_nav_title: Recipes
 nav_links:
   - link_title: GitHub
-    link_url: https://github.com/cloudcannon/pagefind
+    link_url: https://github.com/DanRoscigno/recipe-hugo
     link_label: Local
-    link_icon_path: /github.svg
+    link_icon_path: /recipe-hugo/github.svg
 logo:
-  logo_heading: Pagefind
-  logo_image: /pagefind.svg
-  logo_image_dark: /pagefind-dark.svg
+  logo_heading: Recipes
+  logo_image: /recipe-hugo/eggplant.png
+  logo_image_dark: /recipe-hugo/eggplant.png
